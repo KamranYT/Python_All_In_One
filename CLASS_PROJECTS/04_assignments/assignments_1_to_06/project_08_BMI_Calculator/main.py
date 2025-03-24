@@ -1,6 +1,18 @@
-def main():
-    print("Hello from 08-bmi-calculator!")
+import streamlit as st
+import pandas as pd 
 
 
-if __name__ == "__main__":
-    main()
+st.title("BMI Calculator")
+
+height = st.slider("Enter Your height in inches: ", 10, 150, 75)
+weight = st.slider("Ente Your weight in kgs: ", 40, 250, 70)
+
+if st.button("Generate BMI"):
+    bmi = weight / ((height/100) ** 2)
+    st.success(f"Your BMI is {bmi:.2f}")
+
+st.write("### BMI Categories ###")
+st.write("- Underweight: BMI less than 18.5")
+st.write("- Normal weight: BMI between 18.5 and 24.9")
+st.write("- Overweight: BMI between 25 and 29.9")
+st.write("- Obesity: BMI 30 or greater")
