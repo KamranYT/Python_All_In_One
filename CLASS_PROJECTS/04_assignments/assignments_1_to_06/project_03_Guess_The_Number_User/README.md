@@ -1,4 +1,4 @@
-# Guess The Number User
+# Guess The Number (User)
 
 A Python-based number guessing game that offers two modes of play: user guessing and computer guessing. This interactive game provides an engaging way to practice number guessing with helpful feedback.
 
