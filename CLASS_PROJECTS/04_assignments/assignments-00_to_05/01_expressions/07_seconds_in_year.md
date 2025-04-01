@@ -1,0 +1,1 @@
+# [Task:07_seconds_in_year](https://colab.research.google.com/drive/1SJ743vPtYkBTUL-DPkpOxlYfjgFfmJm-#scrollTo=G_8l9oxvlxS1&line=1&uniqifier=1)

@@ -1,0 +1,1 @@
+# [Task:04_pythongoren_theorem](https://colab.research.google.com/drive/1SJ743vPtYkBTUL-DPkpOxlYfjgFfmJm-#scrollTo=uu9GC_WjYqOH&line=4&uniqifier=1)

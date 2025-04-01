@@ -1,0 +1,1 @@
+# [Task:08_tiny_mad_lib](https://colab.research.google.com/drive/1SJ743vPtYkBTUL-DPkpOxlYfjgFfmJm-#scrollTo=9ZKKWUnSqNOF&line=2&uniqifier=1)
