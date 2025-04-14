@@ -81,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- [Streamlit](https://streamlit.io/) for providing an easy way to create web applications.
+- [Streamlit](https://mk-data-encryption.streamlit.app/) for providing an easy way to create web applications.
 - [Cryptography](https://cryptography.io/en/latest/) for secure encryption and decryption methods.
