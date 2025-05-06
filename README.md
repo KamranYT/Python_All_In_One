@@ -125,6 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Kamran YT - [@Kamran__Dev](https://twitter.com/Kamran__Dev) - kamranyt.dev@gmail.com
 
-Project Link: [https://github.com/yourusername/Python_All_In_One](https://github.com/yourusername/Python_All_In_One) 
+Project Link: [https://github.com/KamranYT/Python_All_In_One](https://github.com/KamranYT/Python_All_In_One) 
